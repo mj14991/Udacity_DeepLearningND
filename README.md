@@ -8,33 +8,23 @@ This is a repository to document my projects from Udacity's Deep Learning Nanode
 
 [![](http://img.youtube.com/vi/dOwEDeJp8yw/0.jpg)](http://www.youtube.com/watch?v=dOwEDeJp8yw "Introduction to the Bike Sharing Project")
 
-* ## [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%201%20-%20Bike%20Sharing)
+* #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%201%20-%20Bike%20Sharing)
 
 
 Predicting Bike sharing rides from historical data with a neural network
 
-```
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
-```
+### 2. Dog Breed Classifier with a CNN
 
-2. Create and activate a new environment.
 
-```
-conda create -n quadcop python=3.6 matplotlib numpy pandas
-source activate quadcop
-```
+* #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%202%20-%20Dog%20Breed%20Classifier%20-%20Image%20Classifier)
 
-3. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `quadcop` environment. 
-```
-python -m ipykernel install --user --name quadcop --display-name "quadcop"
-```
+Creating an image classifier with CNN. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. 
 
-4. Open the notebook.
-```
-jupyter notebook Quadcopter_Project.ipynb
-```
 
-5. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
+### 3. Dog Breed Classifier with a CNN
 
-6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
+[![](http://img.youtube.com/vi/qNpv7IjQzo0/0.jpg)](http://www.youtube.com/watch?v=qNpv7IjQzo0 "Generating TV Scripts with RNN")
+
+* #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%203%20-%20RNN%20Generate%20TV%20Scripts)
+
+Generating a Simpsons TV script using RNNs. Using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network generates a new TV script for a scene at Moe's Tavern.
