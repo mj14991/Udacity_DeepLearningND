@@ -10,6 +10,11 @@ This is a repository to document my projects from Udacity's Deep Learning Nanode
 
 [*Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%201%20-%20Bike%20Sharing)
 
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 Predicting Bike sharing rides from historical data with a neural network
 
 ```
