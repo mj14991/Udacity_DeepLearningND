@@ -15,7 +15,7 @@ Predicting Bike sharing rides from historical data with a neural network
 
 ### 2. Dog Breed Classifier with a CNN
 
-![Doggo](https://github.com/mj14991/Udacity_DeepLearningND/blob/master/Pictures/dog01.jpg)
+![Doggo](https://github.com/mj14991/Udacity_DeepLearningND/blob/master/Pictures/dog01.jpg | width=100)
 
 * #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%202%20-%20Dog%20Breed%20Classifier%20-%20Image%20Classifier)
 
@@ -39,7 +39,7 @@ Using Generative Adversarial Networks to generate new images of faces
 
 ### 5. Teach a Quadcopter How to Fly with RL
 
-![Quadcopter](https://github.com/mj14991/Udacity_DeepLearningND/blob/master/Pictures/quadcopter.jpg)
+![Quadcopter](https://github.com/mj14991/Udacity_DeepLearningND/blob/master/Pictures/quadcopter.jpg | width=100)
 
 * #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%203%20-%20RNN%20Generate%20TV%20Scripts)
 
