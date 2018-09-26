@@ -1,12 +1,13 @@
-# Deep RL Quadcopter Controller
+# Deep Learning 
 
-*Teach a Quadcopter How to Fly!*
+This is a repository to document my projects from Udacity's Deep Learning Nanodegree. 
 
-In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
+## Projects
 
-## Project Instructions
+1. Predicting Bike Sharing Data 
 
-1. Clone the repository and navigate to the downloaded folder.
+[![](http://img.youtube.com/vi/dOwEDeJp8yw/0.jpg)](http://www.youtube.com/watch?v=dOwEDeJp8yw "Introduction to the Bike Sharing Project")
+
 
 ```
 git clone https://github.com/udacity/RL-Quadcopter-2.git
