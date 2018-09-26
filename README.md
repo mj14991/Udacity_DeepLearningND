@@ -4,10 +4,11 @@ This is a repository to document my projects from Udacity's Deep Learning Nanode
 
 ## Projects
 
-1. Predicting Bike Sharing Data 
+### 1. Predicting Bike Sharing Data 
 
 [![](http://img.youtube.com/vi/dOwEDeJp8yw/0.jpg)](http://www.youtube.com/watch?v=dOwEDeJp8yw "Introduction to the Bike Sharing Project")
 
+Predicting Bike sharing rides from historical data with a neural network
 
 ```
 git clone https://github.com/udacity/RL-Quadcopter-2.git
