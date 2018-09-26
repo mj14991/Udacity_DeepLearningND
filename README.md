@@ -1,6 +1,6 @@
 # Deep Learning 
 
-This is a repository to document my projects from Udacity's Deep Learning Nanodegree. 
+This is a repository to document my projects from Udacity's Deep Learning Nanodegree (April 2018 - July 2018).
 
 ## Projects
 
