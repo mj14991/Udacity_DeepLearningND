@@ -46,3 +46,4 @@ Using Generative Adversarial Networks to generate new images of faces
 
 Teaching a quadcopter to takeoff with Reinforcement Learning
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
