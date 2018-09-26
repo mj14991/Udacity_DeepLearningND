@@ -31,8 +31,7 @@ Creating an image classifier with CNN. Given an image of a dog, the algorithm wi
 Generating a Simpsons TV script using RNNs. Using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network generates a new TV script for a scene at Moe's Tavern.
 
 ### 4. Generating Faces with GAN
-
-[![](http://img.youtube.com/vi/qNpv7IjQzo0/0.jpg)](http://www.youtube.com/watch?v=qNpv7IjQzo0 "Generating Faces with GAN")
+[![](http://img.youtube.com/vi/jvJtHYBX7sM/0.jpg)](http://www.youtube.com/watch?v=jvJtHYBX7sM "Generating Faces with GAN")
 
 * #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%204%20-%20GAN%20Generate%20Faces)
 
