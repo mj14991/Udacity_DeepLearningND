@@ -45,5 +45,3 @@ Using Generative Adversarial Networks to generate new images of faces
 * #### [Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%203%20-%20RNN%20Generate%20TV%20Scripts)
 
 Teaching a quadcopter to takeoff with Reinforcement Learning
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
