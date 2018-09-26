@@ -8,6 +8,8 @@ This is a repository to document my projects from Udacity's Deep Learning Nanode
 
 [![](http://img.youtube.com/vi/dOwEDeJp8yw/0.jpg)](http://www.youtube.com/watch?v=dOwEDeJp8yw "Introduction to the Bike Sharing Project")
 
+[- Project Files](https://github.com/mj14991/Udacity_DeepLearningND/tree/master/Project%201%20-%20Bike%20Sharing)
+
 Predicting Bike sharing rides from historical data with a neural network
 
 ```
