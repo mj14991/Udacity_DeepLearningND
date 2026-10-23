@@ -1,3 +1,5 @@
+> **Legacy environments retired (2026-10-23).** This repository preserves historical coursework. Its original dependency files and setup commands are archival evidence, contain known vulnerabilities, and are unsupported for installation or deployment. See [retirement details](RETIREMENT.md).
+
 # Deep Learning 
 
 This is a repository to document my projects from Udacity's Deep Learning Nanodegree (April 2018 - July 2018).
