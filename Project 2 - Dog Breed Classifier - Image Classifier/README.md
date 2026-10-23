@@ -1,3 +1,5 @@
+> **Legacy environments retired (2026-10-23).** This repository preserves historical coursework. Its original dependency files and setup commands are archival evidence, contain known vulnerabilities, and are unsupported for installation or deployment. See [retirement details](../RETIREMENT.md).
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
